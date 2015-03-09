@@ -2,7 +2,7 @@
 #
 # updatesoa.sh - a simple script to update BIND SOA serial numbers
 #
-# Copyright (c) 2011 Gabriel M. O'Brien
+# Copyright (c) 2015 Gabriel M. O'Brien
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
