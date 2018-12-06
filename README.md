@@ -1,2 +1,3 @@
 # updatesoa.sh
-a simple script to update BIND SOA serial numbers
+
+This project is now maintained on GitLab: https://gitlab.com/gmobrien/updatesoa.sh
